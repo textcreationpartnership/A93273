@@ -1,0 +1,345 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Diatribē. VVherein the judgement of the reformed churches and Protestant divines, is shewed, concerning [brace] ordination. Laying on of hands in ordination of ministers: and, preaching by those who are not ordained ministers.</title>
+            <author>Simpson, Sidrach, 1600?-1655.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93273</idno>
+            <idno type="STC">Wing S3823</idno>
+            <idno type="STC">Thomason E373_18</idno>
+            <idno type="STC">ESTC R201332</idno>
+            <idno type="EEBO-CITATION">99861856</idno>
+            <idno type="PROQUEST">99861856</idno>
+            <idno type="VID">114001</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93273)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114001)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 59:E373[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Diatribē. VVherein the judgement of the reformed churches and Protestant divines, is shewed, concerning [brace] ordination. Laying on of hands in ordination of ministers: and, preaching by those who are not ordained ministers.</title>
+                  <author>Simpson, Sidrach, 1600?-1655.</author>
+               </titleStmt>
+               <extent>18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Peter Cole, and are to be sold at his shop at the sign of the Printing-Press in Cornhil, neer the Royal Exchange,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Sidrach Simpson by Wing.</note>
+                  <note>The first word of the title is printed in Greek characters.</note>
+                  <note>The words "ordination. .. ordained ministers." are bracketed together on title page.</note>
+                  <note>The first leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "feb: 5th"; 1646 the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lay preaching --  Early works to 1800.</term>
+               <term>Ordination --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114001:1"/>
+            <pb facs="tcp:114001:1" rendition="simple:additions"/>
+            <p>ΔΙΑΤΡΙΒΗ.</p>
+            <p>Wherein the Iudgement of THE Reformed Churches AND Proteſtant Divines, is ſhewed,</p>
+            <p>Concerning
+<list>
+                  <item>Ordination.</item>
+                  <item>Laying on of Hands in Ordination of Mini<g ref="char:EOLhyphen"/>ſters: And,</item>
+                  <item>Preaching by thoſe who are not Ordained Mi<g ref="char:EOLhyphen"/>niſters.</item>
+               </list>
+            </p>
+            <figure>
+               <figDesc>Tudor rose</figDesc>
+            </figure>
+            <figure>
+               <figDesc>Scottish thistle</figDesc>
+            </figure>
+            <figure>
+               <figDesc>French fleur-de-lis</figDesc>
+            </figure>
+            <figure>
+               <figDesc>depiction of Irish harp</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>Peter Cole,</hi> and are to be ſold at his ſhop at the ſign of the Printing-Preſs in Cornhil, neer the <hi>Royal Exchange,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114001:2"/>
+            <pb n="5" facs="tcp:114001:2"/>
+            <head>The Iudgement of the Reformed Churches and Proteſtant Divines, concerning Ordination, Laying on of Hands in Ordination of Miniſters, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">O</seg>Rdination is taken commonly for an act of Miniſters or Elders, af<g ref="char:EOLhyphen"/>ter Examination and Election: In that ſenſe,</p>
+            <div type="part">
+               <head>Ordination is not Eſſential to the Calling of a Minister: <hi>For,</hi>
+               </head>
+               <p n="1">1. The word, <hi>To Ordain, Tit.</hi> 1.5. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, even when it is uſed concerning Officers, ſignifies to <hi>ſix, ſettle, eſtabliſh one who was in Office before,</hi> as appears by <hi>Pſal.</hi> 2.6. where the Septuagint uſeth the ſame word <hi>Paul</hi> doth to <hi>Titus,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; Now if you underſtand the Pſalm of <hi>David</hi> in the type, he was a King many years before he took in the Hill and Fort of <hi>Zion,</hi> 2 <hi>Sam.</hi> 5.5, 6. Or if you underſtand it of the Apoſtles Preaching up Chriſt, as the Apoſtles do
+<pb n="6" facs="tcp:114001:3"/>the Pſalm, <hi>Acts</hi> 4.25, &amp;c. Chriſt received all power at his Aſcenſion, and did but <hi>ſettle</hi> his Kingdom by their Preaching. The Apoſtles were but witneſſes of Chriſts glory, and in being ſo, did <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. And however the word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> may be taken ſometimes, yet <hi>Tit.</hi> 1.5. it cannot be taken for making him an Elder who was none before, for what is injoyned there, is to be done by <hi>Titus</hi> only, or by <hi>Titus</hi> joyning with other Miniſters; For the Text ſays, <hi>I have left [thee] to Ordain:</hi> But neither did the Apoſtles, much leſs might other Miniſters make a Miniſter by a ſole act of their own: As for example<g ref="char:punc">▪</g> 
+                  <hi>Acts</hi> 14.23. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. the word tranſlated, <hi>They Or<g ref="char:EOLhyphen"/>dained,</hi> in the Plural number, may be referred to the people, as well as to <hi>Paul</hi> and <hi>Barnabas:</hi> For its ſuch a word as <hi>properly</hi> belongs to the people as well as their Rulers when they gave their votes, and never to the Rulers without the people. The cuſtome was amongſt the <hi>Grecians</hi> in their <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> or lawful meetings,<note place="margin">Budaeus, H: Stephan. Theſ.</note> that the people joyned votes with the Rulers, and the Rulers with the people, before any act was accounted <hi>Legal;</hi> yea it may be rather referred to the people then to them, for the people ſometimes voted alone, but the Rulers did never. And in this ſenſe it is taken by the Reverend Divine of <hi>Scotland;</hi>
+                  <note place="margin">Eng. Popiſh cerem. p. 166. printed 1637.</note> his words are, <q>
+                     <hi>But it is objected, That</hi> Luke <hi>ſaith not of the whole Church, but of</hi> Paul <hi>and</hi> Barnabas, <hi>that</hi> they made <hi>them, by voyces, Elders in every City.</hi> Anſw. <hi>But how can one imagine that betwixt them two alone the matter went to ſuffrages? Election
+<pb n="7" facs="tcp:114001:3"/>by moſt voyces, or the liſting up of the hand, in taken of a ſuffrage, had place</hi> only <hi>amongſt a mul<g ref="char:EOLhyphen"/>titude aſſembled together. Wherefore</hi> Wee <hi>ſay with</hi> Junius, <hi>That</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>is both a common and a particular action, whereby a man chooſeth by his own ſuffrage in particular, and likewiſe with others in common</hi> one: <hi>So that in one and the ſame action, wee cannot divide thoſe things which are ſo joyned together.</hi>
+                  </q> But if the word, <hi>They Ordained,</hi> be referred to <hi>Paul</hi> and <hi>Barnabas,</hi> and ſignifie to <hi>Create</hi> or make an Officer who was none before; yet the power whereby this Creation is wrought, is not their own only; for <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is <hi>Creare per ſuffragia,</hi>
+                  <note place="margin">Theſ. ling. Graec in</note> as <hi>H: Stephan</hi> renders it, which is as much as to ſay, They did it not only virtually in the power of others, but they did it by <hi>others.</hi>
+               </p>
+               <p n="2">2. The end and ſcope of ordination is but to <hi>ſolemnize, inaugurate</hi> or <hi>publiſh</hi> the calling of a Miniſter, It is to a Miniſter as Coronation is to a King, which makes him not a King, but declares him and ſets him forth with glory.<note place="margin">Aegid. Hunn. ad artic. Artu<g ref="char:EOLhyphen"/>ri contra aſſert. 6. Declaratio ſolemnis. <hi>Ames</hi> Caſe Conſ. lib 4. c. 25. ſect. 28. Conſtitutio<g ref="char:EOLhyphen"/>nis teſtification Croci. Anti Soci. Diſp. 24. ſect. 3. Miſſio ſolennis in poſſeſſionem honoris. <hi>Jun.</hi> Teſtimonium vocati publicum. Tarnov. de Miniſt. lib. 1. c. 25. Conſecratio &amp; Manifeſtatio, Declara<g ref="char:EOLhyphen"/>tio, Promulgatio, Significatio coram Eccleſia ſolennis teſtificatio. Voet. Deſp<g ref="char:EOLhyphen"/>cauſa papatus, lib. 2. ſect. 2, c. 20.</note> Theſe are the very expreſſions and ſimilitudes of Proteſtant Writers, both <hi>Lutheran</hi> and <hi>Calviniſt</hi> in this mat<g ref="char:EOLhyphen"/>ter. <hi>Sicut non Coronatio facit Regem, ſed Electio &amp;c. Aegid. Hunn. ad actic. Acturi contra aſſert.</hi> 6. Ames Bellar. <hi>enervat.</hi> tom. 2. p. 76. Id caſ. conſ. l. 4. c. 25. ſect. 28. <hi>Voet. Deſp. cauſa Papatus,</hi> lib. 2. ſect. 2. c. 20. p. 264. <hi>Majorem differentiam com<g ref="char:EOLhyphen"/>miniſci
+<pb n="8" facs="tcp:114001:4"/>nemo potest inter duo illa (Elect. &amp; <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>di<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t.) quam inter Conſtitutionem et Commiſsionem Principis unde ſpectatam, et inter eandem commiſsionem arbi<g ref="char:EOLhyphen"/>trariis quibuſdam ſimbolis ſceptra, Corona, &amp;c. inſig<g ref="char:EOLhyphen"/>nitam,</hi> Id pag. 267. And they are agreeable to Scripture; For <hi>Act.</hi> 13.2, 3. <hi>Paul</hi> and <hi>Barnabas</hi> are ſaid to be <hi>Separated</hi> to the work by prayer and faſting and laying on of hands; but both of them were Miniſters before, as appears <hi>Act.</hi> 12. <hi>ult.</hi>
+               </p>
+               <p n="3">3. Then a man is a Miniſter, when he hath a calling to the work from God and man. But both thoſe he may have without <hi>Ordination:</hi> For a man is called by <hi>God</hi> when he is approved to be of eminent gifts, and hath his heart ſtirred up by ſpiritual reſpects to uſe thoſe gifts for publique good. And he is called by <hi>man,</hi> when the peo<g ref="char:EOLhyphen"/>ple who are godly, conſulting with the Word of God, and laying aſide all carnal reſpects, chuſe him and give up themſelves unto him. This is the reaſon of <hi>Crocius</hi> in defence of the Proteſtants againſt the <hi>Socinians.</hi>
+                  <note place="margin">Ant. Soc. diſp. 24. ſect. 3.</note>
+                  <hi>"Diſtinguimus inter ne<g ref="char:EOLhyphen"/>ceſsitatem vocationis et ordinationis</hi> (ſays he) we diſtinguiſh between the neceſſity of having a <hi>Call</hi> and of being <hi>Ordained.</hi>
+                  <note place="margin">Illa eſt neceſ<g ref="char:EOLhyphen"/>ſaria ratione mandati, haec ratione ordinis &amp; conſtituti<g ref="char:EOLhyphen"/>onis Eccleſia<g ref="char:EOLhyphen"/>ſticae. Illa eſt conſtitutio in officio, quae ſi legittima eſt duo habet. 1. Vt a Deo quis eligatur. 2. Vt per antecedentem populi conſenſum <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ligatur A Deo eligitur cum ipſe donis exornat, &amp;c.</note> A calling is neceſſary, by reaſon of Gods command; Ordination is neceſ<g ref="char:EOLhyphen"/>ſary in reſpect of order and Eccleſiaſtical Conſti<g ref="char:EOLhyphen"/>tution. The calling is the <hi>Conſtitution</hi> of one in Office, which (if it be lawful) hath two things in it. 1. That one be choſen of God. 2. That he be choſen by the Antecedent conſent of the
+<pb n="9" facs="tcp:114001:4"/>people: One choſen of God when he is adomed with gifts, &amp;c.</p>
+               <p n="4">
+                  <note place="margin">Quicun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ad docendum i<g ref="char:EOLhyphen"/>doneus eligi<g ref="char:EOLhyphen"/>tur. &amp; vocatur ſuffragio &amp; voce Eccleſiae, is verus eſt verbi Miniſter; Siquidem vocatio &amp; electio legitima facit Mini<g ref="char:EOLhyphen"/>ſtrum. Ordinatio vero eſt illius vocationis declaratio coram caeui Eccleſiae; ſicut non coronatio facit Regem ſed electio: Coronatio vero eſt ſolennis duntaxas re<g ref="char:EOLhyphen"/>nunciatio &amp; declaratio regis. <hi>Ae</hi> gid. Hunn. contra aſſert. Arturi. Vocatio pro<g ref="char:EOLhyphen"/>priè &amp; eſſentialiter. conſiſtit in electione. <hi>Ames</hi> Caſe Conſc. l. 4. c. 25. ſect. 28. Ordinatio ſeu Conſecratio nihil aliud eſt quam legitima electio. <hi>Vo<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t.</hi> 267.</note>4. Whatſoever ſubſtantial act belongs to the ma<g ref="char:EOLhyphen"/>king of a Miniſter, or is ſolemniz'd in ordinatio<g ref="char:cmbAbbrStroke">̄</g>, the ſame is done in Election. For firſt, to Election there goes the tryal and approbation of a mans abilities; In Election, the Church giveth up it ſelf to God to take whom he ſhall direct their hearts to,<note place="margin">Acts 1.2, 4.</note> and in chooſing one well qualified, they chuſe him whom God would have Choſen. In their choice they, <hi>eo ipſo,</hi> ſeparate and ſet him apart to the Miniſtery: Him they take as from Gods ap<g ref="char:EOLhyphen"/>pointment and hand, they offer themſelves to God by him. In accepting the choice, the party choſen undertaketh to be in Gods ſtead to them,<note place="margin">2 Cor. 5.20.</note> &amp; to go in their ſtead and behalf to God (for what elſe is it to be a Miniſter?) And all this is done with prayer and mutual agreement. Now as where the Church agrees in an act, God wil be preſent to con<g ref="char:EOLhyphen"/>firm that act, <hi>Mat.</hi> 18.18, 19. ſo prayer is alſo a ſe<g ref="char:EOLhyphen"/>paration of one to the Miniſtery, <hi>Act.</hi> 13.2, 3. Adde further, Our Tranſlators of the Bible take and render <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>To Ordain,</hi>
+                  <note place="margin">Acts 14.23.</note> which ſignifies properly to <hi>chooſe:</hi> And where the Scripture ſpeaks expreſsly of <hi>chooſing,</hi> they ſupply the Text with the word <hi>Ordain,</hi> as <hi>Act.</hi> 1.22.
+<pb n="10" facs="tcp:114001:5"/>
+                  <hi>Hen. Stephan</hi> calls the act of choice (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) <hi>Creare Magiſtratum,</hi>
+                  <note place="margin">Theſ. ling. Graec. novum uſum hine ver<g ref="char:EOLhyphen"/>bo tribuere.</note> the making of and Officer, for it is (as he ſays) a new found ſenſe of the word, to ſignifie, <hi>laying on of hands.</hi> And if the Apoſtle <hi>Luke</hi> ſhould uſe it <hi>for laying on of hands,</hi>
+                  <note place="margin">Eng. Pop. cere. p. 165, 16<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> it was ne<g ref="char:EOLhyphen"/>ver uſed ſo before his time by any writer, holy or prophane: And unleſs his purpoſe was to write that which none ſhould read, it muſt needs be that as he wrote ſo he meant,<note place="margin">Cart. on Acts 14.23.</note> Election by voices, ſays <hi>Cartwright.</hi>
+               </p>
+               <p>Yea let it be further obſerved, that in Election and Ordination, the ſame word is uſed; In Election, <hi>Act.</hi> 1.23. <hi>Act.</hi> 6.6. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>In Ordination</hi> it is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; the ſame word, with addition of a prepoſition, (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) only: And as the Tranſlators of the Bible render both words, <hi>Appoint.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>They appointed, Act.</hi> 1.23. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> we will ap<g ref="char:EOLhyphen"/>point, <hi>Act.</hi> 6.3. So the Prepoſition <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> doth not alter the ſenſe ſpecifically from the word when it is without it,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> pro. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> apud Euſtrach.</note> no not in the matter of making an Officer: For its all one <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, as <hi>H. Stephan</hi> obſerves.<note place="margin">Theſ. ling. Graec. tom. 1. 1732. C. &amp; 1767. E.</note> In the New Teſta<g ref="char:EOLhyphen"/>ment <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſignifies to place one, and to place one with honor; whence the phraſe is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>he ſhall ſet the Sheep on the right hand, Mat.</hi> 25.33. Its an authoritative word, as <hi>Rom.</hi> 3.31. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>We establiſh the Law.</hi> And the Septua<g ref="char:EOLhyphen"/>gint, whom <hi>Luke</hi> is obſerved to follow moſt,<note place="margin">Cart. in Acts 14.23.</note> uſe <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> for as much as <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, as 1 <hi>Chron.</hi> 9.22. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Theſe did</hi> David <hi>and</hi> Solomon <hi>ap<g ref="char:EOLhyphen"/>point in their ſet office.</hi> But eſpecially conſider that electing one is taking up an Office for him, <hi>Act.</hi> 1.20.22.
+<pb n="11" facs="tcp:114001:5"/>and he that is elected is ſaid to be numbred amongſt Officers, <hi>Act.</hi> 1.26. <hi>The lot fell on Matthias, <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd he was numbred amongſt the Apoſtles.</hi> Numbred <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>communibus ſuffragiis ſeu calculis ad ſcri<g ref="char:EOLhyphen"/>ptus est,</hi> by common conſent or votes he was put into the number, or inrolled amongſt the Apoſtles.</p>
+               <p n="5">
+                  <note place="margin">Omnes illi actus qui per<g ref="char:EOLhyphen"/>tinent ad voca<g ref="char:EOLhyphen"/>tionem vel ten<g ref="char:EOLhyphen"/>dunt ad electi<g ref="char:EOLhyphen"/>onem, ut, no<g ref="char:EOLhyphen"/>minatio, prae<g ref="char:EOLhyphen"/>ſentatio, exa<g ref="char:EOLhyphen"/>minatio, vel ab <hi>electione pendent,</hi> ut, Ordinatio, in<g ref="char:EOLhyphen"/>ſtitutio vel immiſſio. <hi>Ames</hi> Caſe Conſ. ubi ſupra. Relationes in ſubjecto dicuntur exiſtere poſito<g ref="char:punc">▪</g> fundamento &amp; termino. Sed legittima electio &amp; fundamentum Miniſterii &amp; p<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rticularis Eccleſia iſta vel illa terminus. Voet. ubi ſupra. p. 265. Conſecratio eſt adjunctum Miniſterii, at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> adjunctum eſt poſterius ſuo ſubjecto. Id. 18.</note>5. Upon whomſoever Election falleth, Or<g ref="char:EOLhyphen"/>dination doth, neceſſarily, and therefore the Call to the Miniſtery lies principally in Election; as he that is choſen to be a King, <hi>muſt</hi> be Crowned, therefore his election gives him the right to rule. That Ordination neceſſarily follows Election, appears <hi>Act.</hi> 6.3. where the Apoſtle bids them look out (<hi>i. e.</hi> chuſe, as its explained <hi>ver.</hi> 5.) and he would <hi>appoint.</hi>
+               </p>
+               <p>And to this agree our Brethren of the Church of <hi>Scotland;</hi>
+                  <note place="margin">Eng. Pop. cere. part. 3. c. 8. p. 167.</note> ſpeaking of Ordination in general (though they inſtance it as to a particular flock) <q>Neither the Patrons preſentation, not the Clergies nomination, examination, and recom<g ref="char:EOLhyphen"/>mendation, nor the Biſhops laying on of hands and giving of inſtitution; nor all theſe put to<g ref="char:EOLhyphen"/>gether, can make up to a man his Calling to be a Paſtor, without the free Election of the flock: Again, A man hath from his Election power to be a Paſtor, ſo far as concerns <hi>Jus ad rem;</hi> And Ordination only applieth him to the actu<g ref="char:EOLhyphen"/>al exerciſing of his Paſtoral Office, which Or<g ref="char:EOLhyphen"/>dination
+<pb n="12" facs="tcp:114001:6"/>
+                     <hi>Ought</hi> to be given to him <hi>Onely</hi> who is elected, and that <hi>becauſe</hi> he is elected.</q>
+               </p>
+               <p n="6">6. A Miniſter may want and be without Ordi<g ref="char:EOLhyphen"/>nation in ſome caſes, therefore its not eſſential to his Galling. Thus <hi>Gregor. Thaumaturgus</hi> way, and others may be in times of perſecution. This Argument <hi>Voetius</hi> preſſeth larger, and ſheweth, even by confeſſion of the Papiſts, (That one elected or choſen, may without Ordination do all the offices of a Miniſter, as, Excommunicate, Ab<g ref="char:EOLhyphen"/>ſolve, and concludes it is no more to the effence of a Miniſter, then bowing of the knee externally is eſſential to prayer to God, or the leading of the Bride and pomp of a wedding <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay, is to mar<g ref="char:EOLhyphen"/>riage, <hi>Deſp. cauſa Papal.</hi> 266, 267.</p>
+               <p n="7">7. The inconveniences will be very great which follow upon this, That Ordination is Eſ<g ref="char:EOLhyphen"/>ſential to the calling of a Miniſter: For of neceſ<g ref="char:EOLhyphen"/>ſity, for the maintenance of it, it muſt be aſſerted that the Romiſh Prieſts, by whom Ordination comes to us (and therefore to <hi>Beza</hi> it was all one, to be Ordained by the Ordinary, and to be Conſe<g ref="char:EOLhyphen"/>crated in <hi>Romana Eccleſia,</hi> in <hi>Acts</hi> 14.23.) are the Miniſters of Jeſus Chriſt, and the Church of <hi>Rome</hi> wherein they are, the true Church and Spouſe of Chriſt: Yea, that there is a perſonal ſucceſſion of Miniſters (uninterruped by Hereſie or whatſoever elſe may nullifie a Miniſters Cal<g ref="char:EOLhyphen"/>ling) from the Apoſtles times to this preſent; For if there be but one, who when he Ordained was no Miniſter, or not Ordained, all that were Ordained by him are no Miniſters, if Ordination be eſſential.</p>
+            </div>
+            <div type="part">
+               <pb n="13" facs="tcp:114001:6"/>
+               <head>Impoſition, or Laying on of Hands, is neither Eſſential to a Mi<g ref="char:EOLhyphen"/>niſters Call, nor to his Ordina<g ref="char:EOLhyphen"/>tion: <hi>For,</hi>
+               </head>
+               <p n="1">1. SOme have been made Miniſters without it, as the Apoſtles and <hi>Matthias, Acts</hi> I.</p>
+               <p n="2">2. When the Apoſtle bids <hi>Titus</hi> to <hi>Ordain, Tit.</hi> 1.4. He ſays not a word of Impoſition of hands.</p>
+               <p n="3">3. When the Apoſtle uſed it to <hi>Timothy,</hi> 2 <hi>Tim.</hi> 1.6. it was ſo uſed as it was in giving the Holy Ghoſt; as appears by comparing that place with <hi>Acts</hi> 19.6. And therefore was no more eſſential to <hi>Timothy</hi>'s being a Miniſter, then it was to their Baptiſm, <hi>Act.</hi> 196. <q>The Apoſtles indeed by the laying on of their hands did ſignifie their giving of the gift of the Holy Ghoſt (<hi>ſay the Divines of</hi> Scotland) but now as the miracle,<note place="margin">Eng. Pop. cerem. p<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>g. <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>69.</note> ſo the myſtery hath ceaſed.</q> Something extra<g ref="char:EOLhyphen"/>ordinary its likely was in the Apoſtles laying on of hands, for he ſayes the Gift was given <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,<note place="margin">2 Tim <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.6.</note> by the laying on of <hi>my</hi> hands, as it was <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> by prophecy, which was peculiar to extraordinary Officers; but it was but [with] <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 1 <hi>Tim.</hi> 4.14. They it ſeems had but a bare concurrence, but the efficiency was in <hi>Paul</hi> ſingularly, as our
+<pb n="14" facs="tcp:114001:7"/>Brethren of <hi>Scotland</hi> expreſs it, <q>
+                     <hi>Pauls</hi> hands were the mean,<note place="margin">Eng. Pop. cere. 168, 169.</note> the laying on of <hi>their</hi> hands, the Rite and ſign of his Ordination. And therefore they adde, Its not to be uſed with opinion of neceſſity; Ordination may be done by word alone without any Ceremony. <hi>And again,</hi> If the uſe of impoſition of hands in Or<g ref="char:EOLhyphen"/>dination, be accounted and uſed as a ſacred Rite, and as having a ſacred Signification (the uſe of it not being neceſſary) it becomes un<g ref="char:EOLhyphen"/>lawful, by reaſon of the by gone and pre<g ref="char:EOLhyphen"/>ſent Superſtitious uſe of the ſame in Popery.</q>
+               </p>
+               <p n="4">4. If laying on of hands be eſſential to a Miniſters Call, then are the Miniſters of the Re<g ref="char:EOLhyphen"/>formed Churches no Miniſters: For, though they uſe laying on of hands now as a thing indif<g ref="char:EOLhyphen"/>ferent,<note place="margin">In Act. 14.23.</note> yet they who uſed it firſt had it not them<g ref="char:EOLhyphen"/>ſelves.<note place="margin">Quidam hoc referre malunt ad manuum impoſitionem quae &amp; ipſa ſit prorſus neceſ<g ref="char:EOLhyphen"/>ſaria; &amp; hoc praetextu acce<g ref="char:EOLhyphen"/>pto, vocatione<g ref="char:cmbAbbrStroke">̄</g> noſtram irritam eſſe dicunt, quoni<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m Ordinarii (quos vocant) nobis Manus non impoſuerunt; Sive, quod non ſimus in Romana Eccleſia Ordinati. Reſpondeo, &amp; ipſis Canonibus quos jactant, irritam eſſe conſecrationem cui non praeirit legitima electio, aut quae fit Excommunicato, Oſtendant autem ipſi vel unum in tota illa ſua Hierarchia qui legitime ſit vocatus, imo qui non ſit centies ipſo jure Excommunica<g ref="char:EOLhyphen"/>tus. Si ipſis eorum Synodis ſtetur. Nos igitur cur abillis Impoſitionem manuum peteremus, aut quo jure ipſi nobis eam tribuerent? Habemus autem nos, Dei bene<g ref="char:EOLhyphen"/>ficio, Certas noſtrae vocationis notas, legitimo ab Eccleſiis noſtris &amp; vitae &amp; Do<g ref="char:EOLhyphen"/>ctrinae teſtimonſo (per Dei gratiam) ornati; &amp; ab iiſdem electi, ac Demum etiam invocato Deo nomine in noſtro miniſterio confirmati, cui Dominus (ut ſpero) eje<g ref="char:EOLhyphen"/>ctis tum furibus Mercenariis, benedicat.</note> They are the words of <hi>Beza,</hi> 
+                  <q>Some (ſaid he) chuſe to refer this to laying on of hands, as if it alſo were altogether neceſſary, and under this pretence ſay, Our Calling is <hi>Null,</hi> becauſe the Ordinaries (as they call them) have not laid hands on us, or becauſe we are not conſecrated
+<pb n="15" facs="tcp:114001:7"/>in the Church of <hi>Rome.</hi> I anſwer, By thoſe Canons which they boaſt of, the conſecration is <hi>Null,</hi> where there was not firſt a lawful choiſe, or which was done by one who is Excommuni<g ref="char:EOLhyphen"/>cated: Let them ſhew but one in all their Hierar<g ref="char:EOLhyphen"/>chy, who is lawfully choſen, yea who is not by the very law, a hundred times Excommunicate, if they will ſtand to their own Synods. Why ſhould we therefore deſire hands to be laid on us by them? Or by what Law can they do it? But we have by the bleſſing of God, certain <hi>Marks</hi> of our Calling, being (through the Grace of God) adorned with the lawful teſtimony of our life and Doctrine from <hi>our Churches,</hi> and after that by calling upon the name of God confirmed in our Miniſtery, which God I hope will bleſs, and caſt out both the Theeves and Hirelings.</q>
+               </p>
+               <p>And in the ſame caſe are the <hi>Lutherans,</hi> who hold laying on of hands not to be eſſential to their calling; Yea that its Popery to hold it ſo. <hi>Bel<g ref="char:EOLhyphen"/>larmine</hi> (ſays <hi>Tarnovius</hi>) would have laying on of hands to be abſolutely neceſſary,<note place="margin">Tarnov. de Miniſterio c. 25. l. 1. qu. 1.</note> as the ſubſtantial part of Ordination. <hi>Chemnitius</hi> puts the caſe, Whe<g ref="char:EOLhyphen"/>ther his Miniſtery be <hi>Null</hi> who hath not hands laid on him; and having reptated their opinion who ſay its not neceſſary ſo the Call be lawful, he layes the neceſſity of it to be in regard of others who <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>un and are not ſent, not in regard of the Calling it ſelfe, but that the Calling may be witneſſed which the Miniſter hath: and ſayes, <hi>Ordinatio<g ref="char:EOLunhyphen"/>non facit vocationem, Ordination</hi> makes not his Calling, but declares it. And further, <hi>Praecipue
+<pb n="16" facs="tcp:114001:8"/>ſervatur iste ritus at tota Eccleſia communibus &amp; ar<g ref="char:EOLhyphen"/>dentibus pracibus,</hi> &amp;c. that Impoſition of hands is retayned chiefly for the prayers ſake which the <hi>whole</hi> Church make, <hi>&amp;c.</hi> Yea, <hi>Fatendum ſane, nul<g ref="char:EOLhyphen"/>lum extare in ſcripturis Mandatum Dei quod hic ci<g ref="char:EOLhyphen"/>tus Ordinatione fit adhibendus;</hi> there is no <hi>Com<g ref="char:EOLhyphen"/>mand</hi> of God in Scripture to Ordain by laying on of hands.<note place="margin">In 1 Tim. 5.22</note>
+                  <hi>Loc. Com. Tom.</hi> 3.137. <hi>Danans</hi> ſayes, <q>Laying on of hands is not neceſſary, ſo there be but prayer made to confirm the party elected, and the whole Church joyne in prayer with him that the Spirit of God would ſtrengthen him; and he gives amongſt other reaſons, as that prayer is all, this for one, <hi>Qui hanc ceremoniam Praeciſe urgent inci<g ref="char:EOLhyphen"/>dunt in vanas quaestionis &amp; ineptas,</hi> The urging of it breeds vain and fooliſh queſtions about Miniſters callings.</q> And with them agrees the Church of <hi>Scotland;</hi>
+                  <note place="margin">Eng. Pop. cere. pag. 168, 169.</note> The Church hath full liberty to uſe any other decent Rite, or to uſe no Rite at all, be<g ref="char:EOLhyphen"/>ſide a publique declaration; the Church is not tyed to uſe any Rite at all by the word of God, in the giving of Ordination.</p>
+               <p>Yea ſuppoſe it Eſſential, and then, whereas it hath been held againſt the Browniſts, that the Miniſtery in the Church of <hi>England</hi> is not <hi>[Null]</hi> though the Biſhops laid on their hands, who ſhould not have had a finger in it (becaus an extrinſecal cir<g ref="char:EOLhyphen"/>cumſtance failing, or being corrupted, a thing cea<g ref="char:EOLhyphen"/>ſes not to be) yet if it be made eſſential, what ſhall be ſaid<g ref="char:punc">▪</g> ſeeing both in the Biſhops intention in or<g ref="char:EOLhyphen"/>daining, and in the profeſſion of the party ordained, hands were laid on him, not as a Presb yeer for<g ref="char:EOLhyphen"/>mally,
+<pb n="17" facs="tcp:114001:8"/>but as one of a ſuperior Order to Elders; And for ſcuh an Order there is no Divine Inſtitu<g ref="char:EOLhyphen"/>tion. As therefore that Baptiſin muſt be repeated which was adminiſtred by a perſon not lawfully called to the miniſtration of it; if the perſon mini<g ref="char:EOLhyphen"/>ſtring be eſſential to Baptiſm, ſo muſt that perſon be ordained again who had hands laid on by a Biſhop, <hi>as a Biſhop,</hi> if laying on of hands be eſ<g ref="char:EOLhyphen"/>ſential to the Miniſtery. Whatſoever wants its eſſentials, is not, though it ſeems to be.</p>
+               <p>Object. 1 <hi>Tim.</hi> 5.22. <hi>Laying on of hands is put for the whole matter of appointing Miniſters,</hi> ergo <hi>its eſſential.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Take it for granted that it be ſo taken, (though it will not be eaſily proved, becauſe the Scripture ſhews it hath been uſed in other caſes then in appointing Officers) yet it follows not that it is the principal or eſſential thing in Ordina<g ref="char:EOLhyphen"/>tion. As for example, <hi>Prayer</hi> is put for the whole worſhip of God, yet is it not the principal part of worſhip; for ſometimes <hi>keeping the Sabbath</hi> is put for all the worſhip, as <hi>Iſa.</hi> 56.4. Again, as when the Scripture by the ſame figure puts lif<g ref="char:EOLhyphen"/>ting up of hands for election (as it doth <hi>Acts</hi> 14.23.5.) it bindes not to that in all elections, nor places it the eſſence of a choice in that: So nei<g ref="char:EOLhyphen"/>ther doth the Scripture place the chief part or eſ<g ref="char:EOLhyphen"/>ſence of Ordination in laying on of hands, though it put it for that work.</p>
+               <p>If therefore laying on of hands be not eſſential, why ſhould thoſe be kept altogether from labor<g ref="char:EOLhyphen"/>ing in the Lords Harveſt, who cannot or have not
+<pb n="18" facs="tcp:114001:9"/>received it; and in a way too that is as queſti<g ref="char:EOLhyphen"/>onable as the thing it ſelf?<note place="margin">We have the word [Presby<g ref="char:EOLhyphen"/>tery] but once ſpoken of in all the Scri<g ref="char:EOLhyphen"/>ptures, as be<g ref="char:EOLhyphen"/>longing to the Churches of the New Te<g ref="char:EOLhyphen"/>ſtament. <hi>Cal<g ref="char:EOLhyphen"/>vin</hi> underſta<g ref="char:cmbAbbrStroke">̄</g>ds by it the office of a Presbyter, not a company of them. Thoſe who take it for a company dif<g ref="char:EOLhyphen"/>fer a<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ongſt themſelves: Some ſay a a company of Preachers, as the <hi>Leyden</hi> Profeſſors, <hi>Synopſ, purior. theol. disp.</hi> 43. <hi>u.</hi> 3<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Some take it for a com<g ref="char:EOLhyphen"/>pany of extraordinary Miniſters, as Apoſtles, Evangeliſts, Prophets, <hi>Scott</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>Paracleſ. p.</hi> 2<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>8. Others for a company of Ruling Elders, as well as others, <hi>Eng. Pop. Cerem.</hi> p. 1<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 1. Some underſtand it of a Congregational P<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>esbytery, (a<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Non-conformiſts againſt <hi>Downame,</hi> and the Scots againſt <hi>Tilenus</hi>) Some of a Claſſical, Provincial Presbytery, as the <hi>London</hi> Miniſters.</note> If the Calling may be true without it, why is it equally preſſed with it? Is there more need of an adjunct, an acceſſo<g ref="char:EOLhyphen"/>ry, a ſolemnity, then of Miniſters, peace, ſalvation to peoples fouls by preaching? Aſſoon as they had but an Altar, they offered on it when they came out of <hi>Babylon,</hi> and ſtaid not till all the Temple in all its furniture and utenſils, was rea<g ref="char:EOLhyphen"/>dy, <hi>EZra.</hi> 3. Before they were wholly carryed away into <hi>Babylon,</hi> they worſhipped and ſerved God with thoſe Veſſels which were left in the Sanctuary, though they had not all, 2 <hi>Chron.</hi> 36.7.10.18. What higher point of Separation is there, then to make void, or deny a whole Ordinance for want of a Circumſtance?</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
